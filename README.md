@@ -1,4 +1,4 @@
-# Golang API Skeleton
+# Golang Study
 
 > Study related to programming language Golang
 
